@@ -15,9 +15,6 @@ public class TestList {
 
 		for (int i = 0; i < list.size(); i++) {
 			System.out.println("une donnée à l'indice  " + i + " = " + list.get(i));
-
 		}
-
 	}
-
 }
